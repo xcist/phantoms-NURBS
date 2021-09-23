@@ -1,2 +1,3 @@
-# Phantom
-Digital phantoms for simulation
+# Phantoms - NURBS format
+see [About phantoms and projectors](https://github.com/xcist/documentation/wiki/About-phantoms-and-projectors)
+These are large files, so you might want to be selective about which ones you download.
