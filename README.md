@@ -1,4 +1,4 @@
-## Phantoms - NURBS format
+## Phantom-NURBS
 
 See [About phantoms and projectors](https://github.com/xcist/documentation/wiki/About-phantoms-and-projectors).
 
